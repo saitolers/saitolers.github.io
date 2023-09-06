@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-09-06T11:13:18.883Z</updated>
+  <updated>2023-09-06T11:18:34.187Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2023/09/06/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E5%8F%91%E5%B8%83/"/>
     <id>http://example.com/2023/09/06/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E5%8F%91%E5%B8%83/</id>
     <published>2023-09-06T10:32:26.000Z</published>
-    <updated>2023-09-06T11:13:18.883Z</updated>
+    <updated>2023-09-06T11:18:34.187Z</updated>
     
     <content type="html"><![CDATA[<h1 id="20230906">20230906<a title="#20230906" href="#20230906"></a></h1><h2 id="早上工作">早上工作<a title="#早上工作" href="#早上工作"></a></h2><ol><li>扯淡</li><li>打屁</li></ol><h2 id="下午工作">下午工作<a title="#下午工作" href="#下午工作"></a></h2><ol><li>摸鱼</li><li>干活</li></ol><h1 id="202309101">202309101<a title="#202309101" href="#202309101"></a></h1><h2 id="早上工作-1">早上工作<a title="#早上工作-1" href="#早上工作-1"></a></h2><ol><li>待定</li></ol><h2 id="下午工作-1">下午工作<a title="#下午工作-1" href="#下午工作-1"></a></h2><ol><li>待定</li></ol>]]></content>
     
@@ -35,6 +35,8 @@
       
     
     
+    
+    <category term="栏目一" scheme="http://example.com/categories/%E6%A0%8F%E7%9B%AE%E4%B8%80/"/>
     
     
     <category term="文" scheme="http://example.com/tags/%E6%96%87/"/>
